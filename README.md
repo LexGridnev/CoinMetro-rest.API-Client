@@ -2,7 +2,7 @@
 A python wrapper for the API functions of https://api.coinmetro.com
 
 CoinMetro is a low fee fiat on/off ramp with lots of trading, market making and arbitrage opportunities.
-Use https://coinmetro.com/?ref=charlie01 to open your account if you havent already.
+Use https://coinmetro.com/?ref=lexgri to open your account if you havent already.
 
 Sample usage:
 
